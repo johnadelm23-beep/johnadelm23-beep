@@ -6,10 +6,10 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Science Student at **Benha University**
+- 🎓 Computer Science Student at **Benha University** level 2
 - 📱 Flutter Developer
 - 💻 I love building mobile apps
-- 🚀 Currently learning advanced Flutter and software architecture
+- 🚀 Currently learning advanced Flutter and software architecture and problem solving
 - 🌱 Always improving my coding skills
 
 ---
