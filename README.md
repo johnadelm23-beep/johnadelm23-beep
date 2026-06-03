@@ -1,80 +1,117 @@
-# John Adel
+# Hi, I'm John Adel 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=32&center=true&vCenter=true&width=700&lines=Flutter+Developer;Mobile+Application+Developer;Computer+Science+Student;Problem+Solver)](https://git.io/typing-svg)
-
----
-
-## 👨‍💻 About Me
-
-Computer Science student at **Benha University** with a strong passion for mobile application development and software engineering.
-
-I specialize in building modern, scalable, and high-performance mobile applications using **Flutter**, with a focus on clean architecture, maintainable code, and great user experience.
-
-I am continuously improving my skills through real-world projects, problem-solving, and learning modern development tools and practices.
-
-- 🎓 Computer Science Student — Benha University (Level 2)  
-- 📱 Flutter Developer  
-- 🔥 Passionate about Mobile Development, Firebase, and Software Architecture  
-- 🧠 Strong interest in Problem Solving & Algorithms  
-- 🤝 Open to internships and collaborative projects  
-- 🚀 Always learning and building real-world applications  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=32&center=true&vCenter=true&width=800&lines=Flutter+Developer;Mobile+App+Engineer;Computer+Science+Student;Problem+Solver)](https://git.io/typing-svg)
 
 ---
 
-## 🛠 Technical Skills
+## 🚀 About Me
+
+Computer Science student at **Benha University** passionate about building **high-quality mobile applications** and solving real-world problems through code.
+
+I specialize in **Flutter development**, focusing on performance, clean architecture, and scalable app design.
+
+I enjoy turning ideas into real products with a strong focus on user experience and maintainable code.
+
+---
+
+🎓 CS Student — Benha University (Level 2)  
+📱 Flutter Developer  
+🔥 Mobile Apps + Firebase + Clean Architecture  
+🧠 Strong Problem Solver (DSA enthusiast)  
+🤝 Open to internships & freelance opportunities  
+🚀 Always learning & building production-level apps  
+
+---
+
+## 🧠 Tech Stack
+
+### 📱 Mobile Development
+- Flutter (Advanced UI & Animations)
+- State Management (Provider / Bloc)
+- REST API Integration
+- Clean Architecture
+
+### ☁️ Backend & Firebase
+- Firebase Auth
+- Cloud Firestore
+- Firebase Storage
+- Push Notifications (FCM)
 
 ### 💻 Programming Languages
 - Dart  
 - C++  
 - Java  
 
-### 📱 Mobile Development
-- Flutter  
-- RESTful APIs Integration  
-- Responsive UI Design  
-- State Management (Provider / Bloc basics)  
-
-### ☁️ Backend & Cloud Services
-- Firebase Authentication  
-- Cloud Firestore  
-- Firebase Storage  
-- Firebase Cloud Messaging (Push Notifications)  
-
-### 🔧 Tools & Platforms
+### 🧰 Tools
 - Git & GitHub  
 - Postman  
 - VS Code  
+- Android Studio  
 
-### 🧩 Core Concepts
+### 🧩 CS Fundamentals
 - Data Structures & Algorithms  
-- Object-Oriented Programming (OOP)  
-- Software Architecture Principles  
+- Object-Oriented Programming  
 - Problem Solving  
 
 ---
 
-## ⚙️ Languages & Tools
+## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,firebase,git,github,postman,vscode" />
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=johnadelm23-beep&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnadelm23-beep&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 🔥 Streak & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnadelm23-beep&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnadelm23-beep&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=johnadelm23-beep&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=johnadelm23-beep&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🏆 What I Focus On
+
+- Writing clean, scalable Flutter apps  
+- Real-world projects (not just tutorials)  
+- Improving problem-solving skills daily  
+- Building production-ready mobile apps  
+- Learning software architecture deeply  
+
+---
+
+## 📌 Featured Projects
+
+> (Replace links with your real repos)
+
+- 📱 **Flutter Learning App** – structured learning platform for beginners  
+- 💬 **Chat App (Firebase)** – real-time messaging app  
+- 🛒 **E-Commerce App** – full shopping system with Firebase backend  
+- 📊 **Task Manager App** – productivity app with clean architecture  
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: johnadel23@gmail.com  
+- 📧 Email: **johnadel23@gmail.com**  
 - 💼 LinkedIn: https://www.linkedin.com/in/john-adel-498910328  
 - 🐙 GitHub: https://github.com/johnadelm23-beep  
 
 ---
 
-> *“Turning ideas into real-world mobile applications through clean code, scalable architecture, and continuous learning.”*
+## 💡 Quote
+
+> “Great apps are not built with features — they are built with clarity, simplicity, and consistency.”
