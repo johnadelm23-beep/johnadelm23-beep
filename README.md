@@ -66,8 +66,17 @@ Experienced in building Flutter applications and working with **Machine Learning
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnadelm23-beep&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnadelm23-beep&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=johnadelm23-beep&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="John's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnadelm23-beep&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ## Connect
