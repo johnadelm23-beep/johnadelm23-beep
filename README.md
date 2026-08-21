@@ -1,87 +1,128 @@
 # John Adel
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Flutter+Developer;Machine+Learning+Enthusiast;AI+%26+Computer+Vision;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Flutter+Developer;Machine+Learning+Enthusiast;Deep+Learning+%26+Computer+Vision;Problem+Solver)](https://git.io/typing-svg)
 
 ## About Me
 
-Computer Science student at **Benha University** interested in **Software Development and Artificial Intelligence**.
+Computer Science student at **Benha University** with a strong interest in **Software Development and Artificial Intelligence**.
 
-Experienced in building Flutter applications and working with **Machine Learning, Deep Learning, NLP, and Computer Vision**. Focused on developing practical solutions using clean, scalable code.
+I work with **Flutter, Machine Learning, Deep Learning, NLP, and Computer Vision**, focusing on building practical applications and intelligent systems with clean and maintainable code.
 
-## Tech Stack
+- Computer Science Student
+- Flutter & Mobile App Development
+- Machine Learning & Deep Learning
+- Computer Vision & NLP
+- Problem Solving & Data Structures
+- Software Engineering
 
-### Artificial Intelligence & Machine Learning
-- Machine Learning & Data Preprocessing
+---
+
+## AI & Machine Learning
+
+### Machine Learning
 - Supervised & Unsupervised Learning
-- Classification, Regression & Clustering
-- Feature Engineering & Model Evaluation
-- NLP & TF-IDF
-- Scikit-learn, Pandas, NumPy
+- Classification & Regression
+- Clustering
+- Data Preprocessing
+- Feature Engineering
+- Model Training & Evaluation
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
 
 ### Deep Learning
 - Artificial Neural Networks (ANN)
 - Convolutional Neural Networks (CNN)
-- TensorFlow & Keras
+- Feedforward Neural Networks
+- TensorFlow
+- Keras
 - Model Training & Evaluation
 - Optimization & Regularization
 
 ### Computer Vision
-- Image Classification
 - Image Processing
+- Image Classification
 - CNN Architectures
+- Feature Extraction
 - OpenCV
 - TensorFlow / Keras
-- NumPy & Matplotlib
+- NumPy
+- Matplotlib
 
-### Mobile Development
+### Natural Language Processing
+- Text Preprocessing
+- Tokenization
+- Stopword Removal
+- TF-IDF
+- Text Classification
+- Scikit-learn
+
+---
+
+## Mobile Development
+
 - Flutter & Dart
-- Bloc / Provider
-- Firebase
+- Bloc / Cubit
+- Provider
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Cloud Messaging
 - REST API Integration
 - Clean Architecture
+- Responsive UI
+- State Management
 
-### Programming
+---
+
+## Programming Languages
+
 - Python
 - Dart
 - C++
 - Java
+- SQL
 
-### Tools
+---
+
+## Tools & Technologies
+
 - Git & GitHub
 - Jupyter Notebook
 - Google Colab
 - VS Code
 - Android Studio
 - Postman
+- Firebase
+
+---
+
+## Computer Science
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Problem Solving
+- Database Fundamentals
+- Software Engineering
+- Machine Learning Fundamentals
+
+---
 
 ## Current Focus
 
 - Machine Learning & Deep Learning
 - Computer Vision
 - Natural Language Processing
-- Production-ready Flutter Applications
+- Building production-ready Flutter applications
 - Data Structures & Algorithms
 - Software Engineering
 
-## GitHub Stats
+---
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=johnadelm23-beep&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="John's GitHub Stats"
-  />
-</p>
+## Connect With Me
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnadelm23-beep&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
+**LinkedIn:** [John Adel](https://www.linkedin.com/in/john-adel-498910328)
 
-## Connect
-
-**LinkedIn:** [John Adel](https://www.linkedin.com/in/john-adel-498910328)  
 **GitHub:** [johnadelm23-beep](https://github.com/johnadelm23-beep)
 
 ---
